@@ -1,0 +1,8 @@
+result.txt
+Hello world
+hello world
+123 abc
+Ok.
+
+  Leading space
+The end
